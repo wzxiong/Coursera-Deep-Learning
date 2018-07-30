@@ -16,6 +16,3 @@ This repo contains all my work mainly homework for deep learning course provided
 4. Convolutional Neural Networks
 
 5. Sequence Models
-# Coursera-Deep-Learning
-# Coursera-Deep-Learning
-# Coursera-Deep-Learning
